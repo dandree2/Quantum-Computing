@@ -6,6 +6,6 @@
 
 [Софтуерни реализации на квантови изчислителни среди](http://htmlpreview.github.io/?https://github.com/dandree2/Quantum-Computing/blob/main/QPC-SW%20Realizations.html)
 
-[Извадка от дисертационен труд - Трета глава - Д. Андреев, 2020](http://htmlpreview.github.io/?https://github.com/dandree2/Quantum-Computing/blob/main/QClustering_Dissertation.html)
+[Извадка от дисертационен труд - Трета глава - Д. Андреев, 2020](http://htmlpreview.github.io/?https://github.com/dandree2/Quantum-Computing/blob/main/QClustering_Dissertation_D.Andreev.pdf)
 
 [Източници към научния труд](http://htmlpreview.github.io/?https://github.com/dandree2/Quantum-Computing/blob/main/Bibliography.html)
